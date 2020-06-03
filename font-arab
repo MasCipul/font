@@ -1,0 +1,10 @@
+@font-face {
+    font-family: LPMQ;
+    src: url(https://cdn.statically.io/gh/MasCipul/font/8e308526/LPMQ.eot);
+    src: url(https://cdn.statically.io/gh/MasCipul/font/8e308526/LPMQ.eot?#iefix) format('embedded-opentype'),
+         url(https://cdn.statically.io/gh/MasCipul/font/1213e8ac/LPMQ.woff) format('woff'),
+         url('https://cdn.statically.io/gh/MasCipul/font/8e308526/LPMQ.woff2') format('woff2'),
+         url(https://cdn.statically.io/gh/MasCipul/font/8e308526/LPMQ.ttf) format('truetype');
+    font-weight: 400;
+    font-style: normal
+}
